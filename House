@@ -8,23 +8,22 @@ Tiles = Kitchen, 2 Bathroom
 Bathroom 2 Door = Clean & Paint
 Parking Tiles
 Putty & Paint
-Shelves = Putty & Paint & Door
+Shelves = Door
 Electric = Switches & Boxes
 Gril Gate = Paint
 
 1st Floor
 ---------
-Shelves = Powder
 Fridge
 Shink = Clean
+Shelves = Powder
 Tiles = Powder
-Granite = Clean, Powder
-Kitchen Tiles & Window Tiles 
+Granite = Clean, Powder 
 Vinayaka = Powder
 Door = Powder smooth
 Border = Powder smooth
 Elevation Tiles = Powder, Clean
-Fan & POP Border = Color
+POP Flowers & POP Border = Color
 Slab = Powder
 Stair Case Windows = Clean, Powder
 Bathroom = Powder & Bidings & Clean
@@ -60,17 +59,17 @@ Aluminum Channels = Powder & Clean
 ---------------------
 PVC & Doors & Glass
 Paint
-Hanging Lights = 4 
-Wall Lights = 3 
+Wall Lights = 1
 Geysers = 2 
 Fans = 3 
-Shrinks = 4 
+Shrinks = 2 
 Toilet = 1 
 Kitchen Stand = 1 
-Mirror = 1 
-Steel Towel Stands 
-Steel Curtain Stands 
+Mirror = 2 
 Tapes & Showers
+Clothes Hangers
+Plastic Towel Stands 
+Steel Curtain Stands 
 
 3rd Floor
 ---------
