@@ -61,3 +61,84 @@ Questions & Answers
 HR
 Job
 Salary
+
+[Interview]
+● Scripting
+How to write 1 to 10 in script ?
+● Linux
+What is soft link & hard link ?
+soft link - shortcut
+hard link - copy
+All the files opened by process ?
+What is Demon Process ?
+What is difference between Initd & Systemd ?
+What is awk & sed ?
+What is $ uses in Linux ?
+● Amazon Web Services (AWS)
+EBS Volume + EC2 - Mapping & Resize
+EC2 Instance ami id different each region ?
+NACL(Gateway&Instance)
+● Jenkins
+What is Parameterized Build ?
+What are the phases of CI/CD ?
+Explain Jenkins Pipeline types ?
+What type of Plugins have used in Jenkins ?
+What is Jenkins (Master & Slave) ?
+What is Jenkins Multibranch Pipeline ?
+What are global credentials in Jenkins ?
+How to overwrite the global credentials in Jenkins ?
+What is Jenkins Architecture ?
+What is shared library in Jenkins ?
+How to take Jenkins backup ?
+In Master Slave setup if i run job on specific node is possible ?
+What is QG & QP in SonarQube ?
+● Terraform
+If i lost .tfstate file and apply terraform command what will happen ?
+Terraform Provisioners ?
+What are provider plugins in terraform ?
+How do call output of one module in another module ?
+Lets say have created lot of resources using terraform and is there way to delete one of the resource through terraform ?
+Can merge 2 different state files ?
+Best way to authenticate cloud providers through terraform ?
+Lets assume 2 resources are creating using terraform, but we need sure 1st resource created successfully then only 2nd resource start creating automatically ?
+depends_on
+What is null resource in terraform ?
+Can terraform used for on-premsis infra ?
+How to call existing resources from any Cloud ?
+Data Source
+If we give count zero in resources level what will happen ?
+What is Dynamic Block in terraform ?
+What is Import in Terraform ? 
+Data Sources
+Providers - Provider Configuration, Provider Requirements
+Variables and Outputs - Input Variables, Output Values, Local Values
+Modules - Module Blocks, Module Sources, Meta-Arguments, Module Development
+Expressions - Types and Values, Conditional Expressions, For Expressions, Dynamic Blocks
+Functions -
+Resources - Provisioners, Meta-Arguments
+Terraform Settings - Terraform Cloud, Backends
+State - The terraform_remote_state Data Source, Backends: State Storage and Locking, Import Existing Resources, Locking, Workspaces, Remote State, Sensitive Data, Upgrading to Terraform v1.3
+● Ansible
+How to check package is installed or not using Ansible ?
+What is difference between Package Module & Shell Module ?
+Explain Ansible Architecture ?
+What are the Modules have worked on ?
+Can create a custom Modules ?
+What is Dynamic Inventory ? 
+I have Ubuntu and CentOS machines as nodes i want to install tree package using same playbook, how would approch this scenario ?
+How to handle prompts with ansible playbook ?
+What is ansible galaxy ?
+rather than writing the role from scrath, the role publicaly available from galaxy and customize according to requirement.
+● Docker
+What is docker system prune & docker image prune ?
+How to remove unused docker images, docker volumes ? 
+What is docker multistage & Uses ?
+What is difference between ENV and ARG ?
+What is difference between COPY and ADD ?
+How do pass Environment Variables while building the Images ?
+Building Dockerfile in directory ?
+What is ONBUILD in Dockerfile ?
+● Kubernetes (K8S)
+How many containers are there in pod by default ?
+What is difference between Ingress and LoadBalancer ?    
+What is the dafault label for workloads by using CLI ? 
