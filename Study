@@ -16,12 +16,18 @@ Code
 
 [Terraform]
 Provisioners
+Lifecycle Meta Argument
 Commands
 Code
 
 [Vagrant]
 Commands
 Code
+
+[Docker]
+5 Websites
+
+[Videos]
 
 [Kubernetes]
 Pods = Pod Topology Spread Constraints, Pod Presets
