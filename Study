@@ -136,6 +136,7 @@ How to handle prompts with ansible playbook ?
 What is ansible galaxy ?
 rather than writing the role from scrath, the role publicaly available from galaxy and customize according to requirement.
 ● Docker
+How to expose Docker Container publicly (-p & -P) ?
 What is docker system prune & docker image prune ?
 How to remove unused docker images, docker volumes ? 
 What is docker multistage & Uses ?
