@@ -17,6 +17,15 @@ Code
 [Terraform]
 Provisioners
 Lifecycle Meta Argument
+Data Sources
+Providers - Provider Configuration, Provider Requirements
+Variables and Outputs - Input Variables, Output Values, Local Values
+Modules - Module Blocks, Module Sources, Meta-Arguments, Module Development
+Expressions - Types and Values, Conditional Expressions, For Expressions, Dynamic Blocks
+Functions -
+Resources - Provisioners, Meta-Arguments
+Terraform Settings - Terraform Cloud, Backends
+State - The terraform_remote_state Data Source, Backends: State Storage and Locking, Import Existing Resources, Locking, Workspaces, Remote State, Sensitive Data, Upgrading to Terraform v1.3
 Commands
 Code
 
@@ -56,6 +65,20 @@ https://dev.to/eddiehale3/building-a-headless-service-in-kubernetes-3bk8
 https://stackoverflow.com/questions/63691946/kubernetes-what-is-hostport-and-hostip-used-for
 https://medium.com/swlh/kubernetes-endpoints-2d77eca96a7b
 https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html
+Websites
+Videos
+Screenshots
+Provisioning - Static & Dynamic
+fsType
+volumeMode - PV, PVC
+mountOptions - PV
+allowVolumeExpansion - SC
+Labels & Selectors
+volumeName
+StorageClassName
+claimRef
+with out all of this above
+Lab
 
 [Job]
 Interview, Jenkins Pipeline
@@ -115,15 +138,6 @@ Data Source
 If we give count zero in resources level what will happen ?
 What is Dynamic Block in terraform ?
 What is Import in Terraform ? 
-Data Sources
-Providers - Provider Configuration, Provider Requirements
-Variables and Outputs - Input Variables, Output Values, Local Values
-Modules - Module Blocks, Module Sources, Meta-Arguments, Module Development
-Expressions - Types and Values, Conditional Expressions, For Expressions, Dynamic Blocks
-Functions -
-Resources - Provisioners, Meta-Arguments
-Terraform Settings - Terraform Cloud, Backends
-State - The terraform_remote_state Data Source, Backends: State Storage and Locking, Import Existing Resources, Locking, Workspaces, Remote State, Sensitive Data, Upgrading to Terraform v1.3
 ● Ansible
 How to check package is installed or not using Ansible ?
 What is difference between Package Module & Shell Module ?
@@ -144,7 +158,8 @@ What is difference between ENV and ARG ?
 What is difference between COPY and ADD ?
 How do pass Environment Variables while building the Images ?
 Building Dockerfile in directory ?
-What is ONBUILD in Dockerfile ?
+What is USER, ONBUILD in Dockerfile ?
+What is stop_signal in Docker-Compose ?
 ● Kubernetes (K8S)
 How many containers are there in pod by default ?
 What is difference between Ingress and LoadBalancer ?    
