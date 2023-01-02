@@ -160,6 +160,7 @@ How do pass Environment Variables while building the Images ?
 Building Dockerfile in directory ?
 What is USER, ONBUILD in Dockerfile ?
 What is stop_signal in Docker-Compose ?
+What is docker.sock in Docker ?
 ● Kubernetes (K8S)
 How many containers are there in pod by default ?
 What is difference between Ingress and LoadBalancer ?    
