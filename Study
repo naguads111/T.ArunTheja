@@ -33,9 +33,6 @@ Code
 Commands
 Code
 
-[Docker]
-5 Websites
-
 [Videos]
 
 [Kubernetes]
@@ -44,7 +41,6 @@ Scheduling, Preemption and Eviction = Pod Overhead, Pod Priority and Preemption
 Configure Pods and Containers = Attach Handlers to Container Lifecycle Events
 https://thecloudblog.net/lab/kubernetes-container-lifecycle-events-and-hooks/
 https://alibaba-cloud.medium.com/pod-lifecycle-container-lifecycle-hooks-and-restartpolicy-ab57f8e3ff35
-https://docs.mirantis.com/mke/3.3/ops/deploy-apps-k8s/pod-security-policies.html
 Administer a Cluster = Autoscale the DNS Service in a Cluster, Cloud Controller Manager Administration, Control Topology Management Policies on a node, Debugging DNS Resolution
 Service, Headless Service, Endpoints, Static IP, External IP, HostPort & HostNetwork, Ingress, Nginx Ingress, Traefik Ingress, HAProxy Ingress, MetalLB, Istio, Metrics Server, Network Policies
 Services, Load Balancing, and Networking = Service, DNS for Services and Pods, Connecting Applications with Services, Ingress, Ingress Controllers, EndpointSlices, IPv4/IPv6 dual-stack
