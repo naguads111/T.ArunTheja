@@ -61,20 +61,6 @@ https://dev.to/eddiehale3/building-a-headless-service-in-kubernetes-3bk8
 https://stackoverflow.com/questions/63691946/kubernetes-what-is-hostport-and-hostip-used-for
 https://medium.com/swlh/kubernetes-endpoints-2d77eca96a7b
 https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html
-Websites
-Videos
-Screenshots
-Provisioning - Static (PV & PVC) & Dynamic
-fsType
-volumeMode - PV, PVC
-mountOptions - PV
-allowVolumeExpansion - SC
-Labels & Selectors
-volumeName
-StorageClassName
-claimRef
-with out all of this above
-Lab
 
 [Job]
 Interview, Jenkins Pipeline
