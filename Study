@@ -28,12 +28,12 @@ Terraform Settings - Terraform Cloud, Backends
 State - The terraform_remote_state Data Source, Backends: State Storage and Locking, Import Existing Resources, Locking, Workspaces, Remote State, Sensitive Data, Upgrading to Terraform v1.3
 Commands
 Code
+30 Videos
+Notes
 
 [Vagrant]
 Commands
 Code
-
-[Videos]
 
 [Kubernetes]
 Pods = Pod Topology Spread Constraints, Pod Presets
@@ -42,36 +42,59 @@ Configure Pods and Containers = Attach Handlers to Container Lifecycle Events
 https://thecloudblog.net/lab/kubernetes-container-lifecycle-events-and-hooks/
 https://alibaba-cloud.medium.com/pod-lifecycle-container-lifecycle-hooks-and-restartpolicy-ab57f8e3ff35
 Administer a Cluster = Autoscale the DNS Service in a Cluster, Cloud Controller Manager Administration, Control Topology Management Policies on a node, Debugging DNS Resolution
-Service, Headless Service, Endpoints, Static IP, External IP, HostPort & HostNetwork, Ingress, Nginx Ingress, Traefik Ingress, HAProxy Ingress, MetalLB, Istio, Metrics Server, Network Policies
-Services, Load Balancing, and Networking = Service, DNS for Services and Pods, Connecting Applications with Services, Ingress, Ingress Controllers, EndpointSlices, IPv4/IPv6 dual-stack
+● Storage
+Videos
+Screenshots
+Volume Expansion
+Topics = Provisioning- Static(PV+PVC)&Dynamic, fsType, volumeMode- PV+PVC, mountOptions-PV, allowVolumeExpansion-SC, Labels & Selectors, volumeName, StorageClassName, claimRef, with out all of this above 
+Lab
+● Services
+Service, Headless Service, Endpoints, Static IP, External IP, HostPort & HostNetwork
 Monitoring, Logging, and Debugging = Debug Services
-Access Applications in a Cluster = Set up Ingress on Minikube with the NGINX Ingress Controller
-https://kubernetes.io/docs/tutorials/stateful-application/cassandra/
-https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
-https://www.fadhil-blog.dev/blog/kubernetes-external-ip/
-https://www.kubermatic.com/blog/exposing-apps-with-services/
-https://alesnosek.com/blog/2017/02/14/accessing-kubernetes-pods-from-outside-of-the-cluster/
 https://platform9.com/blog/kubernetes-service-discovery-principles-in-practice/
 https://www.weave.works/blog/kubernetes-patterns-the-service-discovery-pattern
-https://medium.com/swlh/kubernetes-external-ip-service-type-5e5e9ad62fcd
-https://stackoverflow.com/questions/44519980/assign-external-ip-to-a-kubernetes-service
 https://www.mirantis.com/blog/introduction-to-yaml-part-2-kubernetes-services-ingress-and-repeated-nodes/
+https://www.kubermatic.com/blog/exposing-apps-with-services/
+https://alesnosek.com/blog/2017/02/14/accessing-kubernetes-pods-from-outside-of-the-cluster/
+https://kubernetes.io/docs/tutorials/stateful-application/cassandra/
+https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
 https://blog.knoldus.com/what-is-headless-service-setup-a-service-in-kubernetes/
 https://dev.to/eddiehale3/building-a-headless-service-in-kubernetes-3bk8
+https://www.fadhil-blog.dev/blog/kubernetes-external-ip/
+https://medium.com/swlh/kubernetes-external-ip-service-type-5e5e9ad62fcd
+https://stackoverflow.com/questions/44519980/assign-external-ip-to-a-kubernetes-service
 https://stackoverflow.com/questions/63691946/kubernetes-what-is-hostport-and-hostip-used-for
 https://medium.com/swlh/kubernetes-endpoints-2d77eca96a7b
+● Network Policies
+Videos 
+Screenshots
+● Ingress & In Controllers
+Ingress, Nginx Ingress, Traefik Ingress, HAProxy Ingress, MetalLB, Istio, Metrics Server
+Access Applications in a Cluster = Set up Ingress on Minikube with the NGINX Ingress Controller
 https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html
+Services, Load Balancing, and Networking = Service, DNS for Services and Pods, Connecting Applications with Services, Ingress, Ingress Controllers, EndpointSlices, IPv4/IPv6 dual-stack
 
-[Job]
+[Videos]
+30
+
+[Job_1]
 Interview, Jenkins Pipeline
 Resume
 Portal
 Projects
 Roles & Responsibilities = Day to Day Activities
 Questions & Answers
-HR
-Job
+
+[Job_2]
+Interview Rounds
+HR 
 Salary
+OLD_COMPANY = Offer Letter, 3 Months Pay Slips, Hike Letter, Relieving Letter, Experience Letter, Bank Statement, Form 16
+Verification
+Offer Letter
+Joining & Other Formalities
+Salary Credit & Pay Slip Generate
+Abroad
 
 [Interview]
 ● Scripting
