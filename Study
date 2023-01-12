@@ -47,7 +47,6 @@ Videos
 Screenshots
 Volume Expansion
 Topics = Provisioning- Static(PV+PVC)&Dynamic, fsType, volumeMode- PV+PVC, mountOptions-PV, allowVolumeExpansion-SC, Labels & Selectors, volumeName, StorageClassName, claimRef, with out all of this above 
-Lab
 ● Services
 Service, Headless Service, Endpoints, Static IP, External IP, HostPort & HostNetwork
 Monitoring, Logging, and Debugging = Debug Services
