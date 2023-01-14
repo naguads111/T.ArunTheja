@@ -43,9 +43,7 @@ https://thecloudblog.net/lab/kubernetes-container-lifecycle-events-and-hooks/
 https://alibaba-cloud.medium.com/pod-lifecycle-container-lifecycle-hooks-and-restartpolicy-ab57f8e3ff35
 Administer a Cluster = Autoscale the DNS Service in a Cluster, Cloud Controller Manager Administration, Control Topology Management Policies on a node, Debugging DNS Resolution
 ● Storage
-Videos
 Screenshots
-Volume Expansion
 Topics = Provisioning- Static(PV+PVC)&Dynamic, fsType, volumeMode- PV+PVC, mountOptions-PV, allowVolumeExpansion-SC, Labels & Selectors, volumeName, StorageClassName, claimRef, with out all of this above 
 ● Services
 Service, Headless Service, Endpoints, Static IP, External IP, HostPort & HostNetwork
