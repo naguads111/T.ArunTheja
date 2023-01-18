@@ -44,7 +44,7 @@ https://alibaba-cloud.medium.com/pod-lifecycle-container-lifecycle-hooks-and-res
 Administer a Cluster = Autoscale the DNS Service in a Cluster, Cloud Controller Manager Administration, Control Topology Management Policies on a node, Debugging DNS Resolution
 ● Storage
 Screenshots
-Topics = Provisioning- Static(PV+PVC)&Dynamic, fsType, volumeMode- PV+PVC, mountOptions-PV, allowVolumeExpansion-SC, Labels & Selectors, volumeName, StorageClassName, claimRef, with out all of this above 
+Topics = volumeMode- PV+PVC, mountOptions-PV, allowVolumeExpansion-SC, Labels & Selectors, volumeName, StorageClassName, claimRef, with out all of this above 
 ● Services
 Service, Headless Service, Endpoints, Static IP, External IP, HostPort & HostNetwork
 Monitoring, Logging, and Debugging = Debug Services
