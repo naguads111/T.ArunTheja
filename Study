@@ -44,21 +44,6 @@ https://alibaba-cloud.medium.com/pod-lifecycle-container-lifecycle-hooks-and-res
 Administer a Cluster = Autoscale the DNS Service in a Cluster, Cloud Controller Manager Administration, Control Topology Management Policies on a node, Debugging DNS Resolution
 ● Services = Websites, Videos, Screenshots, Commands-Replace
 Service, Headless Service, Endpoints, Static IP, External IP, HostPort & HostNetwork
-Monitoring, Logging, and Debugging = Debug Services
-https://platform9.com/blog/kubernetes-service-discovery-principles-in-practice/
-https://www.weave.works/blog/kubernetes-patterns-the-service-discovery-pattern
-https://www.mirantis.com/blog/introduction-to-yaml-part-2-kubernetes-services-ingress-and-repeated-nodes/
-https://www.kubermatic.com/blog/exposing-apps-with-services/
-https://alesnosek.com/blog/2017/02/14/accessing-kubernetes-pods-from-outside-of-the-cluster/
-https://kubernetes.io/docs/tutorials/stateful-application/cassandra/
-https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
-https://blog.knoldus.com/what-is-headless-service-setup-a-service-in-kubernetes/
-https://dev.to/eddiehale3/building-a-headless-service-in-kubernetes-3bk8
-https://www.fadhil-blog.dev/blog/kubernetes-external-ip/
-https://medium.com/swlh/kubernetes-external-ip-service-type-5e5e9ad62fcd
-https://stackoverflow.com/questions/44519980/assign-external-ip-to-a-kubernetes-service
-https://stackoverflow.com/questions/63691946/kubernetes-what-is-hostport-and-hostip-used-for
-https://medium.com/swlh/kubernetes-endpoints-2d77eca96a7b
 ● Network Policies
 Videos 
 Screenshots
