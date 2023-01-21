@@ -47,7 +47,7 @@ Service, Headless Service, Endpoints, Static IP, External IP
 ● Network Policies
 Videos 
 Screenshots
-● Ingress & In Controllers
+● Ingress & Ingress Controllers
 Ingress, Nginx Ingress, Traefik Ingress, HAProxy Ingress, MetalLB, Istio, Metrics Server
 Access Applications in a Cluster = Set up Ingress on Minikube with the NGINX Ingress Controller
 https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html
