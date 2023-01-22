@@ -51,7 +51,7 @@ Screenshots
 Ingress, Nginx Ingress, Traefik Ingress, HAProxy Ingress, MetalLB, Istio, Metrics Server
 Access Applications in a Cluster = Set up Ingress on Minikube with the NGINX Ingress Controller
 https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html
-Services, Load Balancing, and Networking = Service, DNS for Services and Pods, Connecting Applications with Services, Ingress, Ingress Controllers, EndpointSlices, IPv4/IPv6 dual-stack
+Services, Load Balancing, and Networking = Ingress, Ingress Controllers
 
 [Videos]
 30
