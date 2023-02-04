@@ -150,3 +150,4 @@ What is docker build --target & docker-compose target/profile ?
 How many containers are there in pod by default ?
 What is difference between Ingress and LoadBalancer ?    
 What is the default label for workloads by using CLI ? 
+What is the use of Service IP address ?
