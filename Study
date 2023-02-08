@@ -45,11 +45,11 @@ Administer a Cluster = Autoscale the DNS Service in a Cluster, Cloud Controller 
 ● Network Policies
 Videos 
 Screenshots
-● Ingress & Ingress Controllers
+● Ingress & Ingress Controllers & Service Mesh
 Ingress, Nginx Ingress, Traefik Ingress, HAProxy Ingress, MetalLB, Istio, Metrics Server
 Access Applications in a Cluster = Set up Ingress on Minikube with the NGINX Ingress Controller
 https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html
-Services, Load Balancing, and Networking = Ingress, Ingress Controllers
+Services, Load Balancing, and Networking = Ingress, Ingress Controllers, Service Mesh
 
 [Videos]
 30
