@@ -42,14 +42,6 @@ Configure Pods and Containers = Attach Handlers to Container Lifecycle Events
 https://thecloudblog.net/lab/kubernetes-container-lifecycle-events-and-hooks/
 https://alibaba-cloud.medium.com/pod-lifecycle-container-lifecycle-hooks-and-restartpolicy-ab57f8e3ff35
 Administer a Cluster = Autoscale the DNS Service in a Cluster, Cloud Controller Manager Administration, Control Topology Management Policies on a node, Debugging DNS Resolution
-● Network Policies
-Videos 
-Screenshots
-● Ingress & Ingress Controllers & Service Mesh
-Ingress, Nginx Ingress, Traefik Ingress, HAProxy Ingress, MetalLB, Istio, Metrics Server
-Access Applications in a Cluster = Set up Ingress on Minikube with the NGINX Ingress Controller
-https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ingress-guide-nginx-example.html
-Services, Load Balancing, and Networking = Ingress, Ingress Controllers, Service Mesh
 
 [Videos]
 30
