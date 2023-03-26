@@ -35,16 +35,8 @@ Notes
 Commands
 Code
 
-[Kubernetes]
-Pods = Pod Topology Spread Constraints, Pod Presets
-Scheduling, Preemption and Eviction = Pod Overhead, Pod Priority and Preemption
-Configure Pods and Containers = Attach Handlers to Container Lifecycle Events
-https://thecloudblog.net/lab/kubernetes-container-lifecycle-events-and-hooks/
-https://alibaba-cloud.medium.com/pod-lifecycle-container-lifecycle-hooks-and-restartpolicy-ab57f8e3ff35
-Administer a Cluster = Autoscale the DNS Service in a Cluster, Cloud Controller Manager Administration, Control Topology Management Policies on a node, Debugging DNS Resolution
-
 [Videos]
-30
+24
 
 [Job_1]
 Interview, Jenkins Pipeline
@@ -53,8 +45,6 @@ Portal
 Projects
 Roles & Responsibilities = Day to Day Activities
 Questions & Answers
-
-[Job_2]
 Interview Rounds
 HR 
 Salary
@@ -141,3 +131,6 @@ How many containers are there in pod by default ?
 What is difference between Ingress and LoadBalancer ?    
 What is the default label for workloads by using CLI ? 
 What is the use of Service IP address ?
+
+https://jhooq.com/
+https://www.bogotobogo.com/index.php
