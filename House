@@ -1,12 +1,9 @@
 0th Floor
 ---------
-Gate = Clean & Paint
 Elevation = Paint
-Current Meters & Lines = 3
 Cracks
 Tiles = Kitchen, 2 Bathroom
 Bathroom 2 Door = Clean & Paint
-Parking Tiles
 Putty & Paint
 Shelves = Door
 Electric = Switches & Boxes
@@ -14,28 +11,23 @@ Gril Gate = Paint
 
 1st Floor
 ---------
-Fridge
 Shink = Clean
 Shelves = Powder
 Tiles = Powder
 Granite = Clean, Powder 
 Vinayaka = Powder
-Door = Powder smooth
-Border = Powder smooth
 Elevation Tiles = Powder, Clean
 POP Flowers & POP Border = Color
 Slab = Powder
 Stair Case Windows = Clean, Powder
 Bathroom = Powder & Bidings & Clean
 Bathroom Door Tile = Damage
-Bathroom Ventilation = Powder
+Bathroom Ventilator = Powder
 Bathroom Window = Powder
 Doors & Windows = Metal Paste
 Stairs (Pillar & Jalilu & Glass) = Powder
 Cracks = Powder + White Cement
-God Granite = White Cement
 Aluminum Channels = Powder & Clean
-Dining Hall Shelves = Powder
 
 2nd Floor
 ---------
@@ -97,6 +89,8 @@ Sitting = Cement
 
 Outer
 -----
+Steel Gate
+Current Meters & Lines = 3
 Parking = Tiles & Powder
 Stairs = Tiles & Powder & Steel
 Elevation = Front (Steel & Glass) & Side ()
