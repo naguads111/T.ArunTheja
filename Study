@@ -39,7 +39,7 @@ Code
 24
 
 [Job_1]
-Interview, Jenkins Pipeline
+Interview, Jenkins Pipeline (Git - Maven - SonarQube - Artifact - Ansible {Docker - Kubernetes})
 Resume
 Portal
 Projects
@@ -58,6 +58,8 @@ Abroad
 [Interview]
 ● Scripting
 How to write 1 to 10 in script ?
+How to run a script in background ?
+What is debug mode in Shell Script ?
 ● Linux
 What is soft link & hard link ?
 soft link - shortcut
@@ -68,11 +70,18 @@ What is difference between Initd & Systemd ?
 What is awk & sed ?
 What is $ uses in Linux ?
 What is StrictHostKeyChecking ?
+If some task to complete in background ?                                                                    nohup
+How to store a log file whether the command is successful or not ?
+To delete a last 10 day files in a folder by using a command ?
+What is Break command & Exit command in Linux ?
 ● Amazon Web Services (AWS)
 EBS Volume + EC2 - Mapping & Resize
 EC2 Instance ami id different each region ?
 NACL(Gateway&Instance)
 ● Jenkins
+How to setup multiple agents in Jenkins Pipeline ?
+How to delete a workspace once a job is done using Jenkins Pipeline ?
+How to delete job build old logs ?                                                             https://infoheap.com/jenkins-delete-old-builds/ 
 What is Parameterized Build ?
 What are the phases of CI/CD ?
 Explain Jenkins Pipeline types ?
@@ -104,6 +113,8 @@ If we give count zero in resources level what will happen ?
 What is Dynamic Block in terraform ?
 What is Import in Terraform ? 
 ● Ansible
+I don't like to get information about the server ?                                                      gather_facts
+What is template vs copy in Ansible?                                                                    register
 How to check package is installed or not using Ansible ?
 What is difference between Package Module & Shell Module ?
 Explain Ansible Architecture ?
@@ -129,10 +140,15 @@ What is docker.sock in Docker ?
 What is docker build --target & docker-compose target/profile ?
 What is intermediate containers in docker ?
 ● Kubernetes (K8S)
+How many status of Pod ?
 How many containers are there in pod by default ?
 What is difference between Ingress and LoadBalancer ?    
 What is the default label for workloads by using CLI ? 
 What is the use of Service IP address ?
+How to manage Multi Clusters ?
+● Monitoring
+Log vs Metrics and example tools for both ?
+●
 
 https://jhooq.com/
 https://www.bogotobogo.com/index.php
