@@ -11,8 +11,6 @@ Code
 Code
 
 [Packer]
-Commands
-Code
 
 [Terraform]
 Provisioners
@@ -148,7 +146,6 @@ What is the use of Service IP address ?
 How to manage Multi Clusters ?
 ● Monitoring
 Log vs Metrics and example tools for both ?
-●
 
 https://jhooq.com/
 https://www.bogotobogo.com/index.php
