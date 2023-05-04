@@ -1,56 +1,28 @@
 [Ansible]
-Handlers
-Loops = with_items
-Conditions
+Pre_task & Post_task
+Register
+Handlers 
 Variables
-Check Mode
+Inventory 
 Tags = Playbooks (Play, Task)
-Code
-
-[Jenkins]
-Code
-
-[Packer]
 
 [Terraform]
-Templates
-Provisioners
-Lifecycle Meta Argument
-Data Sources
-Providers - Provider Configuration, Provider Requirements
-Variables and Outputs - Input Variables, Output Values, Local Values
-Modules - Module Blocks, Module Sources, Meta-Arguments, Module Development
-Expressions - Types and Values, Conditional Expressions, For Expressions, Dynamic Blocks
-Functions -
-Resources - Provisioners, Meta-Arguments
-Terraform Settings - Terraform Cloud, Backends
-State - The terraform_remote_state Data Source, Backends: State Storage and Locking, Import Existing Resources, Locking, Workspaces, Remote State, Sensitive Data, Upgrading to Terraform v1.3
-Commands
+CLI - import
+Null Resource & terraform_data
+Resources - Provisioners, Meta-Arguments (Lifecycle)
+75 Videos
+
+[Jenkins]
+Shared Libraries
+Multiple Agents
 Code
-30 Videos
-Notes
 
-[Vagrant]
+32 Videos
+4 Screenshots
 
-[Videos]
-22
-
-[Job_1]
 Interview, Jenkins Pipeline (Git - Maven - SonarQube - Artifact - Ansible {Docker - Kubernetes})
-Resume
-Portal
-Projects
-Roles & Responsibilities = Day to Day Activities
-Questions & Answers
-Interview Rounds
-HR 
-Salary
-OLD_COMPANY = Offer Letter, 3 Months Pay Slips, Hike Letter, Relieving Letter, Experience Letter, Bank Statement, Form 16
-Verification
-Offer Letter
-Joining & Other Formalities
-Salary Credit & Pay Slip Generate
-Abroad
+
+Resume & 5000RS
 
 [Interview]
 ● Scripting
@@ -74,7 +46,9 @@ What is Break command & Exit command in Linux ?
 ● Amazon Web Services (AWS)
 EBS Volume + EC2 - Mapping & Resize
 EC2 Instance ami id different each region ?
-NACL(Gateway&Instance)
+Subnets - Availability Zones
+NACL(Gateway & Instance)
+Elastic Network Interface (ENI)
 ● Jenkins
 How to setup multiple agents in Jenkins Pipeline ?
 How to delete a workspace once a job is done using Jenkins Pipeline ?
@@ -148,3 +122,18 @@ Log vs Metrics and example tools for both ?
 
 https://jhooq.com/
 https://www.bogotobogo.com/index.php
+
+[Job] 
+Portal
+Projects
+Roles & Responsibilities = Day to Day Activities
+Questions & Answers
+Interview Rounds
+HR 
+Salary
+OLD_COMPANY = Offer Letter, 3 Months Pay Slips, Hike Letter, Relieving Letter, Experience Letter, Bank Statement, Form 16
+Verification
+Offer Letter
+Joining & Other Formalities
+Salary Credit & Pay Slip Generate
+Abroad
