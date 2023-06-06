@@ -1,16 +1,12 @@
-[Ansible]
-Pre_task & Post_task
-Register
-Handlers 
-Variables
-Inventory 
-Tags = Playbooks (Play, Task)
-
 [Terraform]
-CLI - import
+CLI - import, refresh 
 Null Resource & terraform_data
 Resources - Provisioners, Meta-Arguments (Lifecycle)
 75 Videos
+Arguments & Attributes
+Output = sensitive
+Workspaces = default
+Dynamic Blocks
 
 [Jenkins]
 Shared Libraries
