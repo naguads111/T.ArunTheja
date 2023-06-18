@@ -1,12 +1,12 @@
 [Terraform]
-CLI - import, refresh 
-Null Resource & terraform_data
-Resources - Provisioners, Meta-Arguments (Lifecycle)
+CLI - import 
+CLI - refresh
+Null Resource
+EC2 - UserData
+State Backends - locking
+Resources - Provisioners
+Resources - Meta-Arguments (Lifecycle)
 75 Videos
-Arguments & Attributes
-Output = sensitive
-Workspaces = default
-Dynamic Blocks
 
 [Jenkins]
 Shared Libraries
@@ -92,6 +92,7 @@ I have Ubuntu and CentOS machines as nodes i want to install tree package using 
 How to handle prompts with ansible playbook ?
 What is ansible galaxy ?
 rather than writing the role from scrath, the role publicaly available from galaxy and customize according to requirement.
+What is Tower in Ansible ?
 ● Docker
 How to expose Docker Container publicly (-p & -P) ?
 What is docker system prune & docker image prune ?
