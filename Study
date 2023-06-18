@@ -1,11 +1,12 @@
 [Terraform]
-CLI - import 
+CLI - import
 CLI - refresh
-Null Resource
 EC2 - UserData
 State Backends - locking
+Null Resource
 Resources - Provisioners
 Resources - Meta-Arguments (Lifecycle)
+WebSites & Tutorials
 75 Videos
 
 [Jenkins]
