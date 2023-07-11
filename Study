@@ -1,26 +1,22 @@
 [Terraform]
+.terraform & .terraform.lock.hcl
 CLI - import
-CLI - refresh
-EC2 - UserData
-State Backends - locking
-Null Resource
 Resources - Provisioners
 Resources - Meta-Arguments (Lifecycle)
-WebSites & Tutorials
-75 Videos
+7 Tutorials
+12 Videos
+GitHub = Fork
 
 [Jenkins]
 Shared Libraries
 Multiple Agents
 Code
 
-32 Videos
-4 Screenshots
-
-Interview, Jenkins Pipeline (Git - Maven - SonarQube - Artifact - Ansible {Docker - Kubernetes})
+25 Videos
 
 Resume & 5000RS
 
+Interview, Jenkins Pipeline (Git - Maven - SonarQube - Artifact - Ansible {Docker - Kubernetes})
 [Interview]
 ● Scripting
 How to write 1 to 10 in script ?
@@ -65,6 +61,7 @@ In Master Slave setup if i run job on specific node is possible ?
 What is QG & QP in SonarQube ?
 ● Terraform
 If i lost .tfstate file and apply terraform command what will happen ?
+https://blog.devgenius.io/terraform-state-management-85bc622f731c
 Terraform Provisioners ?
 What are provider plugins in terraform ?
 How do call output of one module in another module ?
@@ -80,6 +77,7 @@ Data Source
 If we give count zero in resources level what will happen ?
 What is Dynamic Block in terraform ?
 What is Import in Terraform ? 
+Removing the bad resource from state and re-import the resource ?
 ● Ansible
 I don't like to get information about the server ?                                                      gather_facts
 What is template vs copy in Ansible?                                                                    register
@@ -120,6 +118,8 @@ Log vs Metrics and example tools for both ?
 
 https://jhooq.com/
 https://www.bogotobogo.com/index.php
+
+Scripting = Bash/Shell + Python 
 
 [Job] 
 Portal
