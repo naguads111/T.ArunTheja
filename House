@@ -1,3 +1,7 @@
+Viji Akka = 400RS
+Seenu = 5000RS
+Krishna = 5000RS
+
 0th Floor
 ---------
 Elevation = Paint
@@ -8,6 +12,7 @@ Putty & Paint
 Shelves = Door
 Electric = Switches & Boxes
 Gril Gate = Paint
+Lizard
 
 1st Floor
 ---------
@@ -28,6 +33,7 @@ Doors & Windows = Metal Paste
 Stairs (Pillar & Jalilu & Glass) = Powder
 Cracks = Powder + White Cement
 Aluminum Channels = Powder & Clean
+Exhaust Cap Outside
 
 2nd Floor
 ---------
@@ -91,5 +97,6 @@ Steel Gate
 Current Meters & Lines = 3
 Parking = Tiles & Powder
 Stairs = Tiles & Powder & Steel
-Elevation = Front (Steel & Glass) & Side ()
+Elevation = Front (Design & Tiles, Steel & Glass)
 Color Paint 3 Sides
+Motor = Repair
