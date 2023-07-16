@@ -3,9 +3,7 @@
 CLI - import
 Resources - Provisioners
 Resources - Meta-Arguments (Lifecycle)
-7 Tutorials
 12 Videos
-GitHub = Fork
 
 [Jenkins]
 Shared Libraries
@@ -15,6 +13,7 @@ Code
 [Scripting] 
 Bash/Shell 
 Python
+Database
 
 25 Videos
 
