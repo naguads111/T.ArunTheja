@@ -1,6 +1,5 @@
 [Terraform]
 .terraform & .terraform.lock.hcl
-CLI - import
 Resources - Provisioners
 Resources - Meta-Arguments (Lifecycle)
 12 Videos
