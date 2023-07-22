@@ -1,8 +1,9 @@
 [Terraform]
-.terraform & .terraform.lock.hcl
-Resources - Provisioners
-Resources - Meta-Arguments (Lifecycle)
-12 Videos
+Screenshots
+Modules
+Provisioners
+Meta-Arguments (Lifecycle)
+5 Videos
 
 [Jenkins]
 Shared Libraries
@@ -14,7 +15,7 @@ Bash/Shell
 Python
 Database
 
-25 Videos
+53 Videos
 
 Resume & 5000RS
 
