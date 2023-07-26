@@ -1,5 +1,6 @@
 [Terraform]
 Screenshots
+refresh
 Modules
 Provisioners
 Meta-Arguments (Lifecycle)
