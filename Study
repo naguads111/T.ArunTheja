@@ -1,7 +1,10 @@
 [Terraform]
 Screenshots
 refresh
+Reusable
 Modules
+Lifecycle - VPC, S3
+Null Resource
 Provisioners
 
 [Jenkins]
