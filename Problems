@@ -53,8 +53,8 @@ Legs Foot - Cracks
 Skin - White
 Hairs - Regrowth, White to Black, Gundu
 Powder, Vicco Turmeric & Vicco Turmeric WSO
-Caps = 2
-Underwears = 6
+Caps - 2
+Underwears = 12
 Tshirts = 30 
 Shirts = 30
 Pants = 12
@@ -64,6 +64,6 @@ Travel Duffel Bag
 Mobiles (2) + TemperGlasses (2) + Back Covers (2) + PowerBank + EarPhones-Bluetooth
 Laptop (8GBram) + Laptop (15.6inch;i7;8GBram;1TB) + ScreenCover + BagPouch (2)
 PenDrive 128GB with OTG (2) + PenDrive 256GB with OTG (1)
-Bank(PhoneNo), Aadhar(PhoneNo+EmailID)=200RS, Passport(PhoneNo+EmailID)
+Bank(PhoneNo), Aadhar(PhoneNo+EmailID)-200RS, Passport(PhoneNo+EmailID)
 Money = 815
 Hairs = 58
