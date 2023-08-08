@@ -4,7 +4,6 @@ refresh
 Reusable
 Modules
 Lifecycle - VPC, S3
-Null Resource
 
 [Jenkins]
 Shared Libraries
