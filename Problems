@@ -70,7 +70,7 @@ Passport(PhoneNo+EmailID)
 Aadhar(PhoneNo+EmailID) - 200RS
 Bank(PhoneNo)
 Hair Cutting = 100RS
-Hairs = 62
+Hairs = 63
 
 Money = 100 + 200 + 300 + 500
 PenDrive + SCM = BackUP
