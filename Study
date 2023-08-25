@@ -1,7 +1,3 @@
-[Terraform]
-Screenshots
-Modules
-
 [Jenkins]
 Shared Libraries
 Multiple Agents
@@ -13,8 +9,6 @@ Python
 Database
 
 53 Videos
-
-Resume & 5000RS
 
 Interview, Jenkins Pipeline (Git - Maven - SonarQube - Artifact - Ansible {Docker - Kubernetes})
 [Interview]
@@ -115,6 +109,8 @@ What is the use of Service IP address ?
 How to manage Multi Clusters ?
 ● Monitoring
 Log vs Metrics and example tools for both ?
+
+Resume & 5000RS
 
 [Job] 
 Portal
