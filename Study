@@ -1,7 +1,6 @@
 [Jenkins]
 Shared Libraries
 Multiple Agents
-Code
 
 [Scripting] 
 Bash/Shell 
