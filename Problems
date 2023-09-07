@@ -55,7 +55,6 @@ Shirts = 50
 Tshirts 31
 Night Pants 4
 Vest 4
-Belt 2
 Hair Oil Applicator Bottles 3
 Vicco Turmeric & Vicco Turmeric WSO
 Hair Cutting - 300RS
@@ -67,7 +66,7 @@ Hairs = 65
 Money = 930 + 500 + 300 + 200 + 200 + 45
 Travel Bag 1 = Stich
 Travel Bag 2 - Lock (50RS)
-Accessories (4Bottles, Vests, FileCover)
+Accessories (3Bottles, 2Belts, 3Vests, FileCover, )
 Aadhar(PhoneNo+EmailID) - 200RS
 Bank(PhoneNo)
 PenDrive + SCM = BackUP
