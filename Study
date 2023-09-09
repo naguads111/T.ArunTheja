@@ -1,5 +1,4 @@
 [Jenkins]
-Shared Libraries
 Master & Slave = Multiple
 
 [Scripting] 
