@@ -1,6 +1,5 @@
 [Jenkins]
 Environments, Tools, Examples
-Master & Slave = Multiple
 
 [Scripting] 
 Bash/Shell 
