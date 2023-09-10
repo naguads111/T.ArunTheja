@@ -1,5 +1,6 @@
 [Jenkins]
-Environments, Tools, Examples
+Environments, Tools
+Matrix, Project, Role
 
 [Scripting] 
 Bash/Shell 
