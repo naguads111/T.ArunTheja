@@ -1,5 +1,5 @@
 [Jenkins]
-Matrix, Project, Role
+Project, Role
 
 [Scripting] 
 Bash/Shell 
