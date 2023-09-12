@@ -26,15 +26,24 @@ How to store a log file whether the command is successful or not ?
 To delete a last 10 day files in a folder by using a command ?
 What is Break command & Exit command in Linux ?
 ● Amazon Web Services (AWS)
-EBS Volume + EC2 - Mapping & Resize
+1/2 sync issue ?
+EBS Volume + EC2 - Mapping & Resize ?
 EC2 Instance ami id different each region ?
-Subnets - Availability Zones
-NACL(Gateway & Instance)
-Elastic Network Interface (ENI)
+Subnets - Availability Zones ?
+NACL(Gateway & Instance) ?
+Elastic Network Interface (ENI) ?
+What is Route 53 & How many types are there ?
+● VCS/SCM
+Hotfix branch from a release/master/prod branch.
+Hotfix branch mainly used for to immediate fix the issues like bugs without introducing new features after released version.
+Merge the Hotfix branch into Master/Develop branch as soon as the bug is fixed.
+Then delete the Hotfix branch after merge into Master/Develop branch.
+Feature branch is used to develop for upcoming releases.
 ● Jenkins
 How to setup multiple agents in Jenkins Pipeline ?
 How to delete a workspace once a job is done using Jenkins Pipeline ?
-How to delete job build old logs ?                                                             https://infoheap.com/jenkins-delete-old-builds/ 
+How to delete job build old logs ?                                                             
+https://infoheap.com/jenkins-delete-old-builds/ 
 What is Parameterized Build ?
 What are the phases of CI/CD ?
 Explain Jenkins Pipeline types ?
@@ -67,9 +76,30 @@ If we give count zero in resources level what will happen ?
 What is Dynamic Block in terraform ?
 What is Import in Terraform ? 
 Removing the bad resource from state and re-import the resource ?
+How do import manually created resources into terraform ?
+What are the Features in Terraform ?
+What is State file & Where its store ?
+What happened if State file will be delete OR lost ?
+Terraform forget all the resources has created it exists upto manual deletion, So running terraform command it assumes that these are all new resources its try to recreate a resource but it also not happened because of duplication name error occurs.
+What is Lifecycle & What are they ?
+How do lock a state file ? 
+without DynamoDB, If two OR more terraform developers are modifying the same code and running terraform command at a time through different CLI will be corrupted.
+To prevent this need to enable DynamoDB Locking after enabling lock only one person is allowed to perform the operation running terraform command and remaining terraform developers will hold upto current process finishes.
+Don't let developer2 to perform running terraform command until developer1 finishes.
+If someone make changesto VPC directly in AWS console then what happened and how terraform behaves ? 
+It always try to match what We describe in the code.
+Suppose i remove one tag for VPC through AWS console and remaining 2 tags will be there, in desired code .tf VPC resource has 3 tags through CLI running terraform command like apply can see those change very clear and its add one more tag to that VPC.  			
+How was the Variables find out the Values ?
+What was the current version are using in Terraform ?
+Is there a way to manage the terraform code in to multiple environments ? 
+workspace
+How to provide Variables and Values through run time ?
+Is there option to destroy a particular resource ?
+What is Modules & What are they ?
+What is Backends & What are they ?
 ● Ansible
 I don't like to get information about the server ?                                                      gather_facts
-What is template vs copy in Ansible?                                                                    register
+What is template vs copy in Ansible ?                                                                   register
 How to check package is installed or not using Ansible ?
 What is difference between Package Module & Shell Module ?
 Explain Ansible Architecture ?
@@ -95,6 +125,9 @@ What is stop_signal in Docker-Compose ?
 What is docker.sock in Docker ?
 What is docker build --target & docker-compose target/profile ?
 What is intermediate containers in docker ?
+What is Docker-Compose ?
+How will check the ip address of Docker ?
+How to create namespace in Docker ?
 ● Kubernetes (K8S)
 How many status of Pod ?
 How many containers are there in pod by default ?
@@ -104,6 +137,10 @@ What is the use of Service IP address ?
 How to manage Multi Clusters ?
 ● Monitoring
 Log vs Metrics and example tools for both ?
+● Others
+Waterfall ?
+Agiel ?
+Spirit Model ?
 
 Resume & 5000RS
 
