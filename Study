@@ -95,6 +95,7 @@ Is there a way to manage the terraform code in to multiple environments ?
 workspace
 How to provide Variables and Values through run time ?
 Is there option to destroy a particular resource ?
+How to delete a specific resource in terraform ?
 What is Modules & What are they ?
 What is Backends & What are they ?
 ● Ansible
