@@ -133,6 +133,7 @@ What is intermediate containers in docker ?
 What is Docker-Compose ?
 How will check the ip address of Docker ?
 How to create namespace in Docker ?
+What is Docker Swarm ?
 ● Kubernetes (K8S)
 How many status of Pod ?
 How many containers are there in pod by default ?
@@ -140,6 +141,10 @@ What is difference between Ingress and LoadBalancer ?
 What is the default label for workloads by using CLI ? 
 What is the use of Service IP address ?
 How to manage Multi Clusters ?
+Explain the Kubernetes Architecture ?
+Difference between Kubernetes & Docker Swarm ?
+What are the Service in Kubernetes ?
+What is Namespaces in Kubernetes ?
 ● Monitoring
 Log vs Metrics and example tools for both ?
 ● Others
