@@ -99,6 +99,8 @@ How to delete a specific resource in terraform ?
 What is Modules & What are they ?
 What is Backends & What are they ?
 ● Ansible
+What is Ansible & it uses ?
+What is Ansible Inventory & are there types ?
 I don't like to get information about the server ?                                                      gather_facts
 What is template vs copy in Ansible ?                                                                   register
 How to check package is installed or not using Ansible ?
@@ -112,6 +114,8 @@ How to handle prompts with ansible playbook ?
 What is ansible galaxy ?
 rather than writing the role from scrath, the role publicaly available from galaxy and customize according to requirement.
 What is Tower in Ansible ?
+What is Ansible Vault ?
+What is Ansible Plugins ?
 ● Docker
 How to expose Docker Container publicly (-p & -P) ?
 What is docker system prune & docker image prune ?
