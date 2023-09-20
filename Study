@@ -40,7 +40,11 @@ Merge the Hotfix branch into Master/Develop branch as soon as the bug is fixed.
 Then delete the Hotfix branch after merge into Master/Develop branch.
 Feature branch is used to develop for upcoming releases.
 What is difference between Git and SVN ?
+What is difference between git fetch and git pull ?
 What is Git Stash ?
+How to create a git branch from current git branch OR different git branch ? 
+How do revert a public commit in git ? 
+What is difference between Release branch & Feature branch ?
 ● Jenkins
 How to setup multiple agents in Jenkins Pipeline ?
 How to delete a workspace once a job is done using Jenkins Pipeline ?
@@ -124,6 +128,7 @@ What is Tower in Ansible ?
 What is Ansible Vault ?
 What is Ansible Plugins ?
 ● Docker
+What is docker Image & docker Container ?
 How to expose Docker Container publicly (-p & -P) ?
 What is docker system prune & docker image prune ?
 How to remove unused docker images, docker volumes ? 
