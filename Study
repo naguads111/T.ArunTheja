@@ -39,6 +39,8 @@ Hotfix branch mainly used for to immediate fix the issues like bugs without intr
 Merge the Hotfix branch into Master/Develop branch as soon as the bug is fixed.
 Then delete the Hotfix branch after merge into Master/Develop branch.
 Feature branch is used to develop for upcoming releases.
+What is difference between Git and SVN ?
+What is Git Stash ?
 ● Jenkins
 How to setup multiple agents in Jenkins Pipeline ?
 How to delete a workspace once a job is done using Jenkins Pipeline ?
@@ -56,8 +58,13 @@ What is Jenkins Architecture ?
 What is shared library in Jenkins ?
 How to take Jenkins backup ?
 In Master Slave setup if i run job on specific node is possible ?
+How to do automatic backup in Jenkins ?
+How to integrate SonarQube with Jenkins ?
 What is QG & QP in SonarQube ?
+● Maven
+Explain Maven Goals ?
 ● Terraform
+What is Terraform ?
 If i lost .tfstate file and apply terraform command what will happen ?
 https://blog.devgenius.io/terraform-state-management-85bc622f731c
 Terraform Provisioners ?
@@ -134,6 +141,7 @@ What is Docker-Compose ?
 How will check the ip address of Docker ?
 How to create namespace in Docker ?
 What is Docker Swarm ?
+How do scan the Docker Images ?
 ● Kubernetes (K8S)
 How many status of Pod ?
 How many containers are there in pod by default ?
