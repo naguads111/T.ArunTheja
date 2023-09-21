@@ -25,6 +25,7 @@ If some task to complete in background ?                                        
 How to store a log file whether the command is successful or not ?
 To delete a last 10 day files in a folder by using a command ?
 What is Break command & Exit command in Linux ?
+sed, awk
 ● Amazon Web Services (AWS)
 1/2 sync issue ?
 EBS Volume + EC2 - Mapping & Resize ?
@@ -46,11 +47,14 @@ How to create a git branch from current git branch OR different git branch ?
 How do revert a public commit in git ? 
 What is difference between Release branch & Feature branch ?
 ● Jenkins
+What is Jenkins SAML Single Sign On (SSO) ?
+What is difference between CI and CD ?
 How to setup multiple agents in Jenkins Pipeline ?
 How to delete a workspace once a job is done using Jenkins Pipeline ?
 How to delete job build old logs ?                                                             
 https://infoheap.com/jenkins-delete-old-builds/ 
 What is Parameterized Build ?
+What is Parameters and it uses ?
 What are the phases of CI/CD ?
 Explain Jenkins Pipeline types ?
 What type of Plugins have used in Jenkins ?
@@ -110,6 +114,7 @@ How to delete a specific resource in terraform ?
 What is Modules & What are they ?
 What is Backends & What are they ?
 ● Ansible
+What is difference between Ad-hoc and Playbooks in Ansible ?
 What is Ansible & it uses ?
 What is Ansible Inventory & are there types ?
 I don't like to get information about the server ?                                                      gather_facts
@@ -128,6 +133,10 @@ What is Tower in Ansible ?
 What is Ansible Vault ?
 What is Ansible Plugins ?
 ● Docker
+What are the instructions required for nginx in Dockerfile ?
+It necessary to mention EXPOSE instruction in Dockerfile without that option will be work or not and execute with docker run command ?
+What is Publish in Docker ?
+What is -p while running docker run command ?
 What is docker Image & docker Container ?
 How to expose Docker Container publicly (-p & -P) ?
 What is docker system prune & docker image prune ?
@@ -147,7 +156,13 @@ How will check the ip address of Docker ?
 How to create namespace in Docker ?
 What is Docker Swarm ?
 How do scan the Docker Images ?
+What is Volumes and types in Docker ?
 ● Kubernetes (K8S)
+What is Init Container ?
+What is containerd ?
+What kind of database used in Kubernetes ?
+What is etcd and What kind it is ? nosql because it store information in YAML format documentation if its sql it store in Table (row and colume) format
+What is Pod ?
 How many status of Pod ?
 How many containers are there in pod by default ?
 What is difference between Ingress and LoadBalancer ?    
@@ -158,6 +173,17 @@ Explain the Kubernetes Architecture ?
 Difference between Kubernetes & Docker Swarm ?
 What are the Service in Kubernetes ?
 What is Namespaces in Kubernetes ?
+What is kubeconfig file ?
+What is contexts in kubeconfig file ?
+What is ConfigMaps and Secrets ?
+How do secure more Secrets (encode decode) in Kubernetes ?
+How do access Vault Secrets inside a Pod ? Init Container used for tansfering thatever the stuf inside the pod and it will die and after main container start
+What is PersistantVolume and How it actually different Docker Volumes ?
+What is StorageClasses ?
+What is the difference between Persistentvolume and StorageClass ?
+What is the difference between PersistentVolume (PV) and PersistentVolumeClaim (PVC) ? 
+● Vault
+How do access Secrets OR Password in DevOps ?
 ● Monitoring
 Log vs Metrics and example tools for both ?
 ● Others
