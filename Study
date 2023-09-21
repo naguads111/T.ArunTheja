@@ -12,6 +12,7 @@ How to write 1 to 10 in script ?
 How to run a script in background ?
 What is debug mode in Shell Script ?
 How to read file in shell ?
+How to debug in shell ?
 ● Linux
 What is soft link & hard link ?
 soft link - shortcut
@@ -27,6 +28,9 @@ How to store a log file whether the command is successful or not ?
 To delete a last 10 day files in a folder by using a command ?
 What is Break command & Exit command in Linux ?
 How to check a file is empty or with content ? find
+How to count no of line in file ?
+How to find duplication name in a file ?
+How to delete logs last 30 days ?
 ● Amazon Web Services (AWS)
 1/2 sync issue ?
 EBS Volume + EC2 - Mapping & Resize ?
@@ -133,6 +137,8 @@ rather than writing the role from scrath, the role publicaly available from gala
 What is Tower in Ansible ?
 What is Ansible Vault ?
 What is Ansible Plugins ?
+What is difference between Shell and Command in Modules ?
+In a file want to change particular line replace with new line in Ansible ?
 ● Docker
 What are the instructions required for nginx in Dockerfile ?
 It necessary to mention EXPOSE instruction in Dockerfile without that option will be work or not and execute with docker run command ?
