@@ -5,7 +5,7 @@ Database
 
 53 Videos
 
-Interview, Jenkins Pipeline (Git - Maven - SonarQube - Artifact - Ansible {Docker - Kubernetes})
+Interview, Jenkins Pipeline (Git - Maven - Test - SonarQube - Artifact - Ansible {Docker - Kubernetes})
 [Interview]
 ● Scripting
 How to write 1 to 10 in script ?
@@ -31,6 +31,10 @@ How to check a file is empty or with content ? find
 How to count no of line in file ?
 How to find duplication name in a file ?
 How to delete logs last 30 days ?
+What is difference between wget and curl ?
+How to check free space ?
+What is Group ?
+How to check which User belongs to which Group ?
 ● Amazon Web Services (AWS)
 1/2 sync issue ?
 EBS Volume + EC2 - Mapping & Resize ?
@@ -39,6 +43,10 @@ Subnets - Availability Zones ?
 NACL(Gateway & Instance) ?
 Elastic Network Interface (ENI) ?
 What is Route 53 & How many types are there ?
+I lost the pem file for EC2 is there chance to connect ?
+What is NAT Gateway and Internet Gateway ?
+How to access one VPC to another VPC ?
+What is difference between SecurityGroup and NACL ?
 ● VCS/SCM
 Hotfix branch from a release/master/prod branch.
 Hotfix branch mainly used for to immediate fix the issues like bugs without introducing new features after released version.
@@ -51,6 +59,7 @@ What is Git Stash ?
 How to create a git branch from current git branch OR different git branch ? 
 How do revert a public commit in git ? 
 What is difference between Release branch & Feature branch ?
+What is Branch Strategies ?
 ● Jenkins
 What is Jenkins SAML Single Sign On (SSO) ?
 What is difference between CI and CD ?
@@ -64,6 +73,12 @@ What are the phases of CI/CD ?
 Explain Jenkins Pipeline types ?
 What type of Plugins have used in Jenkins ?
 What is Jenkins (Master & Slave) ?
+How to troubleshoot Jenkins Master node fails ?
+How to run the jobs when Jenkins Master node down ?
+Write a sample syntax for Jenkins Pipeline types ?
+Suppose same name for two stages in Pipeline what will happened ?
+Suppose if 1st stage fail and continue the remaining stages in Pipeline ? Post build action always
+Suppose different stages in different Jenkins Pipeline then How to trigger different Jenkins Pipelines one after the other ?
 What is Jenkins Multibranch Pipeline ?
 What are global credentials in Jenkins ?
 How to overwrite the global credentials in Jenkins ?
@@ -139,7 +154,10 @@ What is Ansible Vault ?
 What is Ansible Plugins ?
 What is difference between Shell and Command in Modules ?
 In a file want to change particular line replace with new line in Ansible ?
+What is become: yes in Playbook ?
+What is difference between Galaxy and Collection in Ansible ?
 ● Docker
+What is Dockerfile ?
 What are the instructions required for nginx in Dockerfile ?
 It necessary to mention EXPOSE instruction in Dockerfile without that option will be work or not and execute with docker run command ?
 What is Publish in Docker ?
@@ -166,6 +184,7 @@ How do scan the Docker Images ?
 What is Volumes and types in Docker ?
 How to monitor a Docker ?
 ● Kubernetes (K8S)
+What is StatefulSet ?
 What is Init Container ?
 What is containerd ?
 What kind of database used in Kubernetes ?
