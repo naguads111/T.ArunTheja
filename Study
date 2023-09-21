@@ -11,6 +11,7 @@ Interview, Jenkins Pipeline (Git - Maven - SonarQube - Artifact - Ansible {Docke
 How to write 1 to 10 in script ?
 How to run a script in background ?
 What is debug mode in Shell Script ?
+How to read file in shell ?
 ● Linux
 What is soft link & hard link ?
 soft link - shortcut
@@ -19,13 +20,13 @@ All the files opened by process ?
 What is Demon Process ?
 What is difference between Initd & Systemd ?
 What is awk & sed ?
-What is $ uses in Linux ?
+What is $, $? uses in Linux ?
 What is StrictHostKeyChecking ?
 If some task to complete in background ?                                                                    nohup
 How to store a log file whether the command is successful or not ?
 To delete a last 10 day files in a folder by using a command ?
 What is Break command & Exit command in Linux ?
-sed, awk
+How to check a file is empty or with content ? find
 ● Amazon Web Services (AWS)
 1/2 sync issue ?
 EBS Volume + EC2 - Mapping & Resize ?
@@ -157,6 +158,7 @@ How to create namespace in Docker ?
 What is Docker Swarm ?
 How do scan the Docker Images ?
 What is Volumes and types in Docker ?
+How to monitor a Docker ?
 ● Kubernetes (K8S)
 What is Init Container ?
 What is containerd ?
