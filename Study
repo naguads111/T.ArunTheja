@@ -60,6 +60,8 @@ How to create a git branch from current git branch OR different git branch ?
 How do revert a public commit in git ? 
 What is difference between Release branch & Feature branch ?
 What is Branch Strategies ?
+What is difference between Merge and Rebase ?
+What is Tag ?
 ● Jenkins
 What is Jenkins SAML Single Sign On (SSO) ?
 What is difference between CI and CD ?
@@ -156,6 +158,8 @@ What is difference between Shell and Command in Modules ?
 In a file want to change particular line replace with new line in Ansible ?
 What is become: yes in Playbook ?
 What is difference between Galaxy and Collection in Ansible ?
+What is Playbook ?
+What is Roles ?
 ● Docker
 What is Dockerfile ?
 What are the instructions required for nginx in Dockerfile ?
@@ -190,6 +194,8 @@ What is containerd ?
 What kind of database used in Kubernetes ?
 What is etcd and What kind it is ? nosql because it store information in YAML format documentation if its sql it store in Table (row and colume) format
 What is Pod ?
+What is Deployment ?
+What is DemonSets ?
 How many status of Pod ?
 How many containers are there in pod by default ?
 What is difference between Ingress and LoadBalancer ?    
