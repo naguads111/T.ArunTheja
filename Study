@@ -173,6 +173,7 @@ How to remove unused docker images, docker volumes ?
 What is docker multistage & Uses ?
 What is difference between ENV and ARG ?
 What is difference between COPY and ADD ?
+What is difference between CMD and ENTRYPOINT ?
 How do pass Environment Variables while building the Images ?
 Building Dockerfile in directory ?
 What is USER, ONBUILD in Dockerfile ?
