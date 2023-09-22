@@ -12,11 +12,11 @@ How to write 1 to 10 in script ?
 How to run a script in background ?
 What is debug mode in Shell Script ?
 How to read file in shell ?
-How to debug in shell ?
+How to debug in shell/bash ?
 ● Linux
-What is soft link & hard link ?
+What is symbolic link ?
 soft link - shortcut
-hard link - copy
+hard link - copy & paste 
 All the files opened by process ?
 What is Demon Process ?
 What is difference between Initd & Systemd ?
@@ -35,6 +35,7 @@ What is difference between wget and curl ?
 How to check free space ?
 What is Group ?
 How to check which User belongs to which Group ?
+How to check the status of the last command ?
 ● Amazon Web Services (AWS)
 1/2 sync issue ?
 EBS Volume + EC2 - Mapping & Resize ?
