@@ -5,7 +5,7 @@ Database
 
 53 Videos
 
-Interview, Jenkins Pipeline (Git - Maven - Test - SonarQube - Artifact - Ansible {Docker - Kubernetes})
+Interview, Jenkins Pipeline (Git Branch Strategies - Maven - Test - SonarQube - Artifact - Ansible {Docker - Kubernetes})
 [Interview]
 ● Scripting
 How to write 1 to 10 in script ?
@@ -63,6 +63,8 @@ What is difference between Release branch & Feature branch ?
 What is Branch Strategies ?
 What is difference between Merge and Rebase ?
 What is Tag ?
+How to resolve multiple merge conflicts ?
+What is Hooks in Git ?
 ● Jenkins
 What is Jenkins SAML Single Sign On (SSO) ?
 What is difference between CI and CD ?
