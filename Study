@@ -5,7 +5,8 @@ Database
 
 53 Videos
 
-Interview, Jenkins Pipeline (Git Branch Strategies - Maven - Test - SonarQube - Artifact - Ansible {Docker - Kubernetes})
+Jenkins Pipeline (Git Branch Strategies - Maven - Test - SonarQube - Artifact - Ansible {Docker - Kubernetes})
+Environments
 [Interview]
 ● Scripting
 How to write 1 to 10 in script ?
@@ -43,11 +44,14 @@ EC2 Instance ami id different each region ?
 Subnets - Availability Zones ?
 NACL(Gateway & Instance) ?
 Elastic Network Interface (ENI) ?
-What is Route 53 & How many types are there ?
+What is Route 53 & How many types are Route Policy ?
 I lost the pem file for EC2 is there chance to connect ?
 What is NAT Gateway and Internet Gateway ?
 How to access one VPC to another VPC ?
 What is difference between SecurityGroup and NACL ?
+● DevOps
+What is CI/CD ?
+What are the phases of CI/CD ?
 ● VCS/SCM
 Hotfix branch from a release/master/prod branch.
 Hotfix branch mainly used for to immediate fix the issues like bugs without introducing new features after released version.
@@ -74,7 +78,6 @@ How to delete job build old logs ?
 https://infoheap.com/jenkins-delete-old-builds/ 
 What is Parameterized Build ?
 What is Parameters and it uses ?
-What are the phases of CI/CD ?
 Explain Jenkins Pipeline types ?
 What type of Plugins have used in Jenkins ?
 What is Jenkins (Master & Slave) ?
@@ -97,6 +100,9 @@ What is QG & QP in SonarQube ?
 ● Maven
 Explain Maven Goals ?
 How to link parent and child POM.xml ? 
+● Tomcat
+How to configure a Tomcat Server ?
+What is the dependency for Tomcat ?
 ● Terraform
 What is Terraform ?
 If i lost .tfstate file and apply terraform command what will happen ?
@@ -164,7 +170,9 @@ What is become: yes in Playbook ?
 What is difference between Galaxy and Collection in Ansible ?
 What is Playbook ?
 What is Roles ?
+What is difference between Roles and Playbooks in Ansible ?
 ● Docker
+What is Docker home path ?
 What is Dockerfile ?
 What are the instructions required for nginx in Dockerfile ?
 It necessary to mention EXPOSE instruction in Dockerfile without that option will be work or not and execute with docker run command ?
