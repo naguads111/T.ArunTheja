@@ -175,6 +175,7 @@ What is difference between Galaxy and Collection in Ansible ?
 What is Playbook ?
 What is Roles ?
 What is difference between Roles and Playbooks in Ansible ?
+How to get a file from slave/worker node to master/local node ? 
 ● Docker
 What is Docker home path ?
 What is Dockerfile ?
