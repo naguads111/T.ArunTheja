@@ -49,6 +49,8 @@ I lost the pem file for EC2 is there chance to connect ?
 What is NAT Gateway and Internet Gateway ?
 How to access one VPC to another VPC ?
 What is difference between SecurityGroup and NACL ?
+What is LoadBalancer and types ?
+What is Target Groups in LoadBalancer ?
 ● DevOps
 What is CI/CD ?
 What are the phases of CI/CD ?
@@ -97,6 +99,7 @@ In Master Slave setup if i run job on specific node is possible ?
 How to do automatic backup in Jenkins ?
 How to integrate SonarQube with Jenkins ?
 What is QG & QP in SonarQube ?
+How to build a Dockerfile using Jenkins ? 
 ● Maven
 Explain Maven Goals ?
 How to link parent and child POM.xml ? 
@@ -104,6 +107,7 @@ How to link parent and child POM.xml ?
 How to configure a Tomcat Server ?
 What is the dependency for Tomcat ?
 ● Terraform
+How to manage State files in different environments ?
 What is Terraform ?
 If i lost .tfstate file and apply terraform command what will happen ?
 https://blog.devgenius.io/terraform-state-management-85bc622f731c
@@ -231,6 +235,8 @@ What is PersistantVolume and How it actually different Docker Volumes ?
 What is StorageClasses ?
 What is the difference between Persistentvolume and StorageClass ?
 What is the difference between PersistentVolume (PV) and PersistentVolumeClaim (PVC) ? 
+What is the difference between Labels and Annotations ?
+What is PodAffinity and NodeAffinity ?
 ● Vault
 How do access Secrets OR Password in DevOps ?
 ● Monitoring
