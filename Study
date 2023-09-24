@@ -96,6 +96,7 @@ How to integrate SonarQube with Jenkins ?
 What is QG & QP in SonarQube ?
 ● Maven
 Explain Maven Goals ?
+How to link parent and child POM.xml ? 
 ● Terraform
 What is Terraform ?
 If i lost .tfstate file and apply terraform command what will happen ?
@@ -191,6 +192,9 @@ What is Docker Swarm ?
 How do scan the Docker Images ?
 What is Volumes and types in Docker ?
 How to monitor a Docker ?
+What is difference between Registry and Repository in Docker ?
+What are the state of Docker ?
+What is pause state of Docker container and How to delete ?
 ● Kubernetes (K8S)
 What is StatefulSet ?
 What is Init Container ?
