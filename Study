@@ -107,6 +107,7 @@ How to link parent and child POM.xml ?
 How to configure a Tomcat Server ?
 What is the dependency for Tomcat ?
 ● Terraform
+What is Null Resource ?
 How to manage State files in different environments ?
 What is Terraform ?
 If i lost .tfstate file and apply terraform command what will happen ?
@@ -167,7 +168,6 @@ What is ansible galaxy ?
 rather than writing the role from scrath, the role publicaly available from galaxy and customize according to requirement.
 What is Tower in Ansible ?
 What is Ansible Vault ?
-What is Ansible Plugins ?
 What is difference between Shell and Command in Modules ?
 In a file want to change particular line replace with new line in Ansible ?
 What is become: yes in Playbook ?
