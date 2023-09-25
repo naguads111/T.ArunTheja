@@ -53,6 +53,7 @@ What is LoadBalancer and types ?
 What is Target Groups in LoadBalancer ?
 ● DevOps
 What is CI/CD ?
+What is CD/CD ?
 What are the phases of CI/CD ?
 ● VCS/SCM
 Hotfix branch from a release/master/prod branch.
@@ -71,6 +72,7 @@ What is difference between Merge and Rebase ?
 What is Tag ?
 How to resolve multiple merge conflicts ?
 What is Hooks in Git ?
+How to clone a specific branch from Repository ?
 ● Jenkins
 What is difference between CI and CD ?
 How to setup multiple agents in Jenkins Pipeline ?
@@ -149,6 +151,8 @@ Is there option to destroy a particular resource ?
 How to delete a specific resource in terraform ?
 What is Modules & What are they ?
 What is Backends & What are they ?
+How to lock a State file in Terraform ?
+using DynamoDB with S3, can use Lock_ID i DynamoDB, after execution terraform init will lock state file when two developers 
 ● Ansible
 What is difference between Ad-hoc and Playbooks in Ansible ?
 What is Ansible & it uses ?
@@ -237,6 +241,7 @@ What is the difference between Persistentvolume and StorageClass ?
 What is the difference between PersistentVolume (PV) and PersistentVolumeClaim (PVC) ? 
 What is the difference between Labels and Annotations ?
 What is PodAffinity and NodeAffinity ?
+What is Autoscaling in Kubernetes and types and difference between them ? HPA and VPA
 ● Vault
 How do access Secrets OR Password in DevOps ?
 ● Monitoring
