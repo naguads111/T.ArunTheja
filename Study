@@ -242,6 +242,14 @@ What is the difference between PersistentVolume (PV) and PersistentVolumeClaim (
 What is the difference between Labels and Annotations ?
 What is PodAffinity and NodeAffinity ?
 What is Autoscaling in Kubernetes and types and difference between them ? HPA and VPA
+● Helm 
+What is Helm ?
+It help to manage Kubernetes application.
+Charts are easy to create, version, share, publish.
+What is difference between V2 and V3 ?
+Some of the clusters RBAC is not enabled can use V2 will 
+Some of the clusters RBAC is enabled can use V3
+Explain the structure of Helm Chart ?
 ● Vault
 How do access Secrets OR Password in DevOps ?
 ● Monitoring
