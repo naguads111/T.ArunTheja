@@ -101,6 +101,7 @@ How to do automatic backup in Jenkins ?
 How to integrate SonarQube with Jenkins ?
 What is QG & QP in SonarQube ?
 How to build a Dockerfile using Jenkins ? 
+How to track/find the changes for a file in a Job with Jenkins UI ? 
 ● Maven
 Explain Maven Goals ?
 How to link parent and child POM.xml ? 
@@ -139,7 +140,7 @@ How do lock a state file ?
 without DynamoDB, If two OR more terraform developers are modifying the same code and running terraform command at a time through different CLI will be corrupted.
 To prevent this need to enable DynamoDB Locking after enabling lock only one person is allowed to perform the operation running terraform command and remaining terraform developers will hold upto current process finishes.
 Don't let developer2 to perform running terraform command until developer1 finishes.
-If someone make changesto VPC directly in AWS console then what happened and how terraform behaves ? 
+If someone make changes to VPC directly in AWS console then what happened and how terraform behaves ? 
 It always try to match what We describe in the code.
 Suppose i remove one tag for VPC through AWS console and remaining 2 tags will be there, in desired code .tf VPC resource has 3 tags through CLI running terraform command like apply can see those change very clear and its add one more tag to that VPC.  			
 How was the Variables find out the Values ?
