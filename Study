@@ -37,6 +37,7 @@ How to check free space ?
 What is Group ?
 How to check which User belongs to which Group ?
 How to check the status of the last command ?
+What is difference between useradd and adduser ?
 ● Amazon Web Services (AWS)
 1/2 sync issue ?
 EBS Volume + EC2 - Mapping & Resize ?
@@ -102,6 +103,8 @@ How to integrate SonarQube with Jenkins ?
 What is QG & QP in SonarQube ?
 How to build a Dockerfile using Jenkins ? 
 How to track/find the changes for a file in a Job with Jenkins UI ? 
+Jenkinsfile can be placed in different location path ?
+Jenkinsfile can have different name ? 
 ● Maven
 Explain Maven Goals ?
 How to link parent and child POM.xml ? 
