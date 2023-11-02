@@ -1,13 +1,11 @@
-[Scripting] 
-Bash/Shell 
+Videos = 53 & ECR_ECS_EKS
+Screenshots = 9
+WebSites = 54 46 18
 Python
-Database
 
-53 Videos
-
-Jenkins Pipeline (Git Branch Strategies - Maven - Test - SonarQube - Artifact - Ansible {Docker - Kubernetes})
-Environments
 [Interview]
+Environments
+Jenkins Pipeline (Git Branch Strategies - Maven - Test - SonarQube - Artifact - Ansible {Docker - Kubernetes})
 ● Scripting
 How to write 1 to 10 in script ?
 How to run a script in background ?
@@ -263,21 +261,13 @@ Waterfall ?
 Agiel ?
 Spirit Model ?
 
-Resume & 5000RS
-
 [Job] 
-Portal
 Projects
 Roles & Responsibilities = Day to Day Activities
-Questions & Answers
-Interview Rounds
-HR 
-Salary
-OLD_COMPANY = Offer Letter, 3 Months Pay Slips, Hike Letter, Relieving Letter, Experience Letter, Bank Statement, Form 16
-Verification
-Offer Letter
-Joining & Other Formalities
-Salary Credit & Pay Slip Generate
+Resume
+Portal
+Interview = Questions & Answers
+HR_Salary, OLD_COMPANY_Documentation,Verification, OfferLetter, Joining_Formalities, SalaryCredit, PaySlip
 Abroad
 
 [Work]
