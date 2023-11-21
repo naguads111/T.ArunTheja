@@ -134,7 +134,7 @@ How do import manually created resources into terraform ?
 What are the Features in Terraform ?
 What is State file & Where its store ?
 What happened if State file will be delete OR lost ?
-Terraform forget all the resources has created it exists upto manual deletion, So running terraform command it assumes that these are all new resources its try to recreate a resource but it also not happened because of duplication name error occurs.
+Terraform forget all the resources has created it exists upto manual deletion, So running terraform command it assumes that these are all new resources then its try to recreate a new resource again.
 What is Lifecycle & What are they ?
 How do lock a state file ? 
 without DynamoDB, If two OR more terraform developers are modifying the same code and running terraform command at a time through different CLI will be corrupted.
