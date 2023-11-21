@@ -279,10 +279,10 @@ Papers
 Screenshots
 Videos
 WebSite
-[BogoToBogo]
-● AWS (Amazon Web Services)
+● BogoToBogo
+[AWS (Amazon Web Services)]
 https://www.bogotobogo.com/DevOps/AWS/aws-EKS-Elastic-Container-Service-Kubernetes.php
-● DevOps
+[DevOps]
 https://www.bogotobogo.com/DevOps/DevOps-ECS-ECR.php
 https://www.bogotobogo.com/DevOps/DevOps-Terraform.php
 https://www.bogotobogo.com/DevOps/Docker/Docker_Kubernetes.php
@@ -292,17 +292,22 @@ https://www.bogotobogo.com/DevOps/DevOps-Kubernetes-III-Kubernetes-on-Linux-with
 https://www.bogotobogo.com/DevOps/AWS/aws-EKS-Elastic-Container-Service-Kubernetes.php
 https://www.bogotobogo.com/DevOps/DevOps-CICD-Github-Actions.php
 https://www.bogotobogo.com/DevOps/DevOps-CICD-GitLab.php
-● Vagrant
+[Vagrant]
 https://www.bogotobogo.com/DevOps/Vagrant/Vagrant_VirtualBox.php
-● Git & GitHub
+[Git & GitHub]
 https://www.bogotobogo.com/cplusplus/Git/Git_GitHub_Express.php
-● Jenkins
+[Jenkins]
 https://www.bogotobogo.com/DevOps/Jenkins/Jenkins_Install.php
-● Terraform
+[Terraform]
 https://www.bogotobogo.com/DevOps/Terraform/Terraform-Introduction-AWS-elb-nginx.php
-● Ansible
+[Ansible]
 https://www.bogotobogo.com/DevOps/Ansible/Ansible_What_is_Ansible.php
-● Docker & K8s = 140
+[Docker & K8s] = 140
 https://www.bogotobogo.com/DevOps/Docker/Docker_Install_On_Amazon_Linux_AMI.php
-● ELK
+[ELK]
 https://www.bogotobogo.com/Hadoop/ELK/ELK_Elastic_Search_Tutorial.php
+● Jhooq
+[Terraform]
+https://jhooq.com/categories/terraform/
+[Ansible]
+https://jhooq.com/categories/ansible/
