@@ -1,0 +1,45 @@
+● AWS Azure GCP
+
+● Git
+
+● Jenkins
+
+● Java_Maven NodeJS_NPM Python
+
+● Tomcat
+Jenkins Freestyle
+Jenkins Pipeline
+
+● SonarQube - QualityGates(Default,Custom) & QualityProfiles(Default,Custom)
+Java_Maven, NodeJS_NPM, Python
+
+● Nexus Jfrog
+pushing a Docker Images
+
+● Vagrant
+
+● Packer
+
+● Terraform
+
+● Ansible
+
+● Docker
+Jenkins Pipeline war,ear,jar file on Tomcat 
+
+● Kubernetes
+
+● ArgoCD
+installation on Kubernetes Cluster
+deploy application from Git using Kubernetes yaml files, Helm, Datree
+
+● Helm
+
+● Datree
+
+● NewRelic Datadog
+Server, Pod_Container
+
+● Splunk
+
+● PagerDuty Slack
