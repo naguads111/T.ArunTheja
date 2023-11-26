@@ -3,6 +3,7 @@ Operation = 200000
 Bangels 3 = 150000 + 11000
 BlackChain 1 = 65000 + 6000
 House = 1000000
+Sister = Marriage
 
 Nokia Lumia Phone = 10000
 Networking Course = 20000
@@ -44,9 +45,9 @@ Legs Foot = Cracks
 Skin = White
 Hairs = Regrowth, White to Black, Gundu
 Mobiles (2) + TemperGlasses (2) + Back Covers (2) + PowerBank + EarPhones-Bluetooth + SDcard128GB=977
-Laptop (8GBram) + Laptop (15.6inch;i7;8GBram;1TB) + ScreenCover + BagPouch (2) + Mouse & MousePad* & Keyboard + ExternalHardDisk (2TB) + ExtensionBox3Pins=500
+Laptop (8GBram) + Laptop (15.6inch;i7;8GBram;1TB) + ScreenCover + BagPouch (2) + Mouse & MousePad* & Keyboard + ExternalHardDisk (2TB) + ExtensionBox3Pins=1000RS
 Travel Duffel Bag (1) = 2500RS
-Travel Bag 3 Lock = 50RS
+Travel Bag 3 Lock = 100RS
 Pants (12) = 6000RS
 Shirts (60)
 Tshirts (30)
@@ -58,7 +59,7 @@ Caps (2) = 500RS
 Hair Cutting = 1200RS
 Shampoo = 246RS
 ViccoTurmeric & ViccoTurmericWSO
-GramFlour = 500RS + TurmericPowder = 1000
+GramFlour = 500RS + TurmericPowder = 1200
 Passport (PhoneNo+EmailID)
 
 Hairs = 95
@@ -68,14 +69,11 @@ Aadhar (PhoneNo EmailID) - 200RS
 Bank (PhoneNo)
 Pant = Stich
 Inner Tshirts 2 = 200RS
+Daddy = 100
 128GBSDcard = 23
 Shampoo = 34
-Locker = 50
 HairCutting = 100
-TurmericPowder = 200
-ExtensionBox3Pins = 500
 Mouse Pad 2
-Daddy = 100
 SBI ATM card = Activate
 Shikakai
 Money = Coins to Notes
