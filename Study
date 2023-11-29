@@ -1,6 +1,5 @@
 Videos = 99
 WebSites = 55+37+25
-Python
 
 [Interview]
 Environments
@@ -272,6 +271,7 @@ HR_Salary, OLD_COMPANY_Documentation,Verification, OfferLetter, Joining_Formalit
 Abroad
 
 [Work]
+Python
 Microsoft Azure 
 Google Cloud Platform (GCP) 
 Argo CD
