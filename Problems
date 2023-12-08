@@ -34,7 +34,7 @@ Bag 1 + 1
 Socks 8 
 Shoes 3 + 2
 Oil Bottles 6
-Liquid Bottles 3
+Liquid Bottles 2
 Powder Boxes 5B + 2S 
 Travel Bags 2
 Clothes Bag 1
@@ -48,7 +48,7 @@ Travel Duffel Bag (1) = 2500RS
 Travel Bag 3 Lock = 100RS
 Pants (12) = 6000RS
 Shirts (60)
-Tshirts (30 + 25 = 1260RS)
+Tshirts (30 + 20 = 780RS)
 Night Pants (6) = 1500RS
 Black Shoes Peeling
 Chappels = 1350RS
@@ -76,12 +76,12 @@ Alovera
 Carrots
 Razor Blades 24 - 200RS
 Mirror 2 - 100RS
-Shampoo - 10P
+Shampoo - 9P
 Soap - 1
 SoapBox - 50RS
 PenDrives & HardDisk
 PapersCover & Pens
-Shampoos = 10
+Shampoos = 11
 Scrub = 1
 Bottle = 1
 Tshirts = 1
@@ -89,5 +89,4 @@ GHouse LaptopBag = 3 Blue ToothBrushes
 Google(aruntheja9devops=Aruntheja@9) & cloud20@end.tw=120days-24/10/2023
 Mummy=48100 + Bramhins=2000RS
 SravanElectrical = Windows
-Ava = Cups 
 Dhanamjaya = PowerBank
