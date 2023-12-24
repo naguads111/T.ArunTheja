@@ -61,7 +61,7 @@ Passport (PhoneNo+EmailID)
 
 Hairs = 121
 BackUp - Movies-HardDisk + Videos-HardDisk,PenDrives + Data-SCM
-Money = HairCuting(300) + Tshirts(30)
+Money = HairCuting(200) + Tshirts(30)
 Laptop Battery Calibrate
 Aadhar (PhoneNo EmailID) - 200RS
 Bank (PhoneNo) & SBI ATM card - Activate
