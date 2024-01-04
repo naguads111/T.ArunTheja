@@ -31,7 +31,9 @@ Jenkins Pipeline war,ear,jar file on Tomcat
 
 ● ArgoCD
 installation on Kubernetes Cluster
+add another Kubernetes Cluster
 deploy application from Git using Kubernetes yaml files, Helm, Datree
+integration with Ansible
 
 ● Helm
 
