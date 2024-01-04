@@ -10,7 +10,7 @@
 Jenkins Freestyle
 Jenkins Pipeline
 
-● SonarQube - QualityGates(Default,Custom) & QualityProfiles(Default,Custom)
+● SonarQube - QualityGates(Default Custom) & QualityProfiles(Default Custom), Webhooks
 Java_Maven, NodeJS_NPM, Python
 
 ● Nexus Jfrog
