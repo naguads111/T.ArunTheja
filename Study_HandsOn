@@ -28,6 +28,7 @@ pushing a Docker Images
 Jenkins Pipeline war,ear,jar file on Tomcat 
 
 ● Kubernetes
+Minikube on AWS
 
 ● ArgoCD
 installation on Kubernetes Cluster
