@@ -47,7 +47,7 @@ integration with Ansible
 
 ● Datree
 
-● NewRelic Datadog Prometheus+NodeExporter+Grafana
+● NewRelic Datadog Prometheus+Node Exporter+Grafana
 Server, Pod_Container
 
 ● Splunk
