@@ -1,6 +1,7 @@
 ● AWS Azure GCP
 
 ● Git - Webhooks
+GitHub, GitLab, Bitbucket, Codeberg, Gogs, Gitea
 
 ● Jenkins
 
@@ -31,7 +32,10 @@ Jenkins Pipeline war,ear,jar file on Tomcat
 ● Snyk Trivy
 
 ● Kubernetes
+Elastic Kubernetes Service (EKS) on AWS
 Minikube on AWS
+Kubeadm on AWS
+Kops on AWS
 
 ● ArgoCD
 installation on Kubernetes Cluster
