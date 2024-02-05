@@ -68,10 +68,11 @@ Earphones
 Mirror
 Scissor
 Bottles = 3
+ToothPaste = 1
 Brush = 1
 Razor Blades = 20
-Soaps = 2 + 6
-Shampoos = 4
+Soaps = 3 + 6
+Shampoos = 5
 Towel
 Vests = 3 + 5
 Tshirts = 6
