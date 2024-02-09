@@ -1,5 +1,5 @@
-Videos = 59
-WebSites = 55+37+25
+Videos
+WebSites
 
 [Interview]
 Environments
@@ -270,13 +270,15 @@ Interview = Questions & Answers
 HR_Salary, OLD_COMPANY_Documentation,Verification, OfferLetter, Joining_Formalities, SalaryCredit, PaySlip
 Abroad
 
-[Work]
+[Upgrade]
 Python
 Microsoft Azure 
 Google Cloud Platform (GCP) 
 Argo CD
 Vault 
-DevSecOps
+Single Sign-On (SSO) = SAML, miniOrange, Keycloak, OneLogin, Okta, Auth0
+
+[Pending]
 Papers
 Screenshots
 Videos
