@@ -18,6 +18,7 @@ PG 2020 = 60000 + 5000
 CourseCube = 5000
 PG 2021 = 5000 + 2000
 Others = 10000 + 100700
+Hyderabad = 1000
 
 CloudDevOps = 20000
 Networking = 20000
