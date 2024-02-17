@@ -272,11 +272,10 @@ Abroad
 
 [Upgrade]
 Python
-Microsoft Azure 
-Google Cloud Platform (GCP) 
+Microsoft Azure, Google Cloud Platform (GCP) 
 GitHub Actions, Bitbucket Pipelines, GitLab CI/CD, Azure Pipelines
+Vault
 Argo CD
-Vault 
 Single Sign-On (SSO) = SAML, miniOrange, Keycloak, OneLogin, Okta, Auth0
 
 [Pending]
